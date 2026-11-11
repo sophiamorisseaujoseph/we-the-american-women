@@ -26,7 +26,7 @@ ui <- page_navbar(
   title = div(
     style = "display: flex; align-items: center; gap: 20px;",
     tags$img(src = "app_logo.png", height = "100px"),
-    span("We, the AmericanW omen")
+    span("We, the American Women")
   ),
 theme = bs_theme(
     navbar_dark="#100f0f",
